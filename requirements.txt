@@ -10,4 +10,4 @@ supabase==1.0.0
 requests==2.32.4
 python-multipart==0.0.20
 faiss-cpu==1.11.0.post1
-pydantic==2.11.7
+pydantic==1.10.13
